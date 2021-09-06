@@ -1,0 +1,5 @@
+./color ../../dataset/color/ecology1.graph 1
+
+or
+
+./color ../../dataset/color/G3_circuit.graph 1

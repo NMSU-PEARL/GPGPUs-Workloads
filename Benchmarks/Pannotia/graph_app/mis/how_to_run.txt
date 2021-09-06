@@ -1,0 +1,5 @@
+./mis ../../dataset/mis/ecology1.graph 1
+
+or
+
+./mis ../../dataset/mis/G3_circuit.graph 1

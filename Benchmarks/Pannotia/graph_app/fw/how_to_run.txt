@@ -1,0 +1,5 @@
+./fw ../../dataset/fw/256_16384.gr 
+
+OR 
+
+./fw ../../dataset/fw/512_65536.gr 
